@@ -1,3 +1,4 @@
 [
-  "test_calculator.py::test_add_integers_excercice_1"
+  "test_calculator.py::test_add_integers_excercice_1",
+  "test_calculator.py::test_add_float_excercice_2"
 ]
