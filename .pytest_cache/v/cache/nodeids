@@ -1,5 +1,10 @@
 [
   "test_calculator.py::test_add_integers_excercice_1",
   "test_calculator.py::test_add_float_excercice_2",
-  "test_calculator.py::test_add_string_excercice_3"
+  "test_calculator.py::test_add_string_excercice_3",
+  "test_calculator.py::test_factorial_excercice_4",
+  "test_calculator.py::test_sin_excercice_4",
+  "test_calculator.py::test_divide_excercice_4",
+  "test_calculator.py::test_double_factorial_excercice_4",
+  "test_calculator.py::test_absolute_value_excercice_4"
 ]
