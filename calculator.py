@@ -10,7 +10,7 @@ def factorial(x):
 def sin(x,N):
     sum = 0
     for n in range(0,N+1):
-        sum += (((-1)^n)*x^(2*n+1))/factorial(2*n+1)
+        sum += (((-1)**n)*x**(2*n+1))/factorial(2*n+1)
     return sum
 
 def divide(x,y):
