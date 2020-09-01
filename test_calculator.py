@@ -1,5 +1,6 @@
 import calculator
 import math
+import pytest
 
 def test_add_integers_excercice_1():
     assert calculator.add(1,2) == 3
@@ -24,3 +25,11 @@ def test_double_factorial_excercice_4():
 
 def test_absolute_value_excercice_4():
     assert calculator.absolute_value(-5) == calculator.absolute_value(5)
+
+def test_add_excercice_5():
+    with pytest.raises(TypeError):
+        calculator.add('4',2)
+
+def test_divide_by_zero_excercice_5():
+    with pytest.raises(ZeroDivisionError):
+        calculator.divide(1,0)

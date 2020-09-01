@@ -6,5 +6,7 @@
   "test_calculator.py::test_sin_excercice_4",
   "test_calculator.py::test_divide_excercice_4",
   "test_calculator.py::test_double_factorial_excercice_4",
-  "test_calculator.py::test_absolute_value_excercice_4"
+  "test_calculator.py::test_absolute_value_excercice_4",
+  "test_calculator.py::test_add_excercice_5",
+  "test_calculator.py::test_divide_by_zero_excercice_5"
 ]
