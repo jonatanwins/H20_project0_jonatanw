@@ -8,5 +8,21 @@
   "test_calculator.py::test_double_factorial_excercice_4",
   "test_calculator.py::test_absolute_value_excercice_4",
   "test_calculator.py::test_add_excercice_5",
-  "test_calculator.py::test_divide_by_zero_excercice_5"
+  "test_calculator.py::test_divide_by_zero_excercice_5",
+  "test_calculator.py::test_add_excercice_6[arg0-0]",
+  "test_calculator.py::test_add_excercice_6[arg1-1.0]",
+  "test_calculator.py::test_add_excercice_6[arg2-ananasbiter]",
+  "test_calculator.py::test_factorial_excercice_6[0]",
+  "test_calculator.py::test_factorial_excercice_6[5]",
+  "test_calculator.py::test_factorial_excercice_6[10]",
+  "test_calculator.py::test_sin_excercice_6[0-0-0]",
+  "test_calculator.py::test_sin_excercice_6[1-4-0.84147]",
+  "test_calculator.py::test_divide_excercice_6[2-2-1]",
+  "test_calculator.py::test_divide_excercice_6[3-2-1.5]",
+  "test_calculator.py::test_double_factorial_excercice_6[1-1]",
+  "test_calculator.py::test_double_factorial_excercice_6[4-8]",
+  "test_calculator.py::test_double_factorial_excercice_6[5-15]",
+  "test_calculator.py::test_absolute_value_excercice_6[1-1]",
+  "test_calculator.py::test_absolute_value_excercice_6[-42-42]",
+  "test_calculator.py::test_absolute_value_excercice_6[0-0]"
 ]
